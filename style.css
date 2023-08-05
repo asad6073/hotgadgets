@@ -1,0 +1,24 @@
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+li a{
+     font-size: 18px; color: black; margin-right: 20px;
+     text-decoration: none;
+}
+button{
+    background-color: rgb(15, 14, 14); margin-left: 10px; border-radius: 10px; padding: 10px;
+    width: 90px;
+    
+}
+button a{
+    color: white; font-weight: bold; font-size: 15px;
+    text-decoration: none;
+}
